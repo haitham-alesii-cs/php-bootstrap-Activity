@@ -1,0 +1,6 @@
+Data types that are defined by system are called primitive data types.
+The primitive data types provided by many programming languages are: int, float, char, double, bool, etc. 
+The number of bits allocated for each primitive data type depends on the programming languages
+the compiler and the operating system.
+For the same primitive data type, different languages may use different sizes.
+depending on the size of the data types, the total available values (domain) will also change.
